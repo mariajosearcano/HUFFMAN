@@ -1,0 +1,19 @@
+La arquitectura de hardware: Un viaje al interior de las computadoras
+La arquitectura de hardware, también conocida como arquitectura de computadoras, es el diseño fundamental de los componentes físicos que conforman una computadora y cómo estos se interconectan y trabajan en conjunto para procesar información y ejecutar tareas. Es el plano maestro que define la organización y estructura interna de un sistema computacional.
+
+Componentes esenciales de la arquitectura:
+
+Unidad central de procesamiento (CPU): Es el cerebro de la computadora, donde se ejecutan las instrucciones y cálculos matemáticos. La CPU se encarga de procesar y manipular datos, controlando el flujo de información en todo el sistema.
+Memoria principal (RAM): Almacena temporalmente los datos y programas que la CPU está utilizando en un momento dado. La RAM es una memoria volátil, lo que significa que se borra cuando se apaga la computadora.
+Memoria secundaria: Almacena datos y programas de forma permanente, incluso cuando la computadora está apagada. Los dispositivos de almacenamiento secundario comunes incluyen discos duros, unidades de estado sólido (SSD) y discos ópticos.
+Buses: Son canales de comunicación que permiten la transferencia de datos entre diferentes componentes de la computadora. Los buses se clasifican según el tipo de datos que transportan (datos, direcciones o control) y la velocidad a la que operan.
+Dispositivos de entrada y salida (E/S): Permiten la interacción entre la computadora y el usuario externo. Los dispositivos de entrada comunes incluyen teclados, ratones, escáneres y cámaras web, mientras que los dispositivos de salida comunes incluyen monitores, impresoras y altavoces.
+Tipos de arquitecturas de hardware:
+
+Arquitectura de Von Neumann: Es la arquitectura clásica de computadora, donde la memoria principal se divide en dos secciones: almacenamiento de datos e instrucciones. La CPU recupera las instrucciones de la memoria, las decodifica y las ejecuta, y luego accede a los datos necesarios para completar la tarea.
+Arquitectura Harvard: En esta arquitectura, la memoria principal se divide en dos espacios separados: uno para almacenar datos y otro para almacenar instrucciones. Esto permite un acceso más rápido a la memoria, ya que la CPU no necesita buscar en la misma sección para obtener datos e instrucciones.
+Arquitectura RISC (Reduced Instruction Set Computer): Se basa en un conjunto de instrucciones simple y optimizado, lo que permite un procesamiento más rápido y eficiente. Las CPU RISC suelen tener menos transistores que las CPU CISC, lo que las hace más pequeñas y energéticamente eficientes.
+Arquitectura CISC (Complex Instruction Set Computer): Ofrece un conjunto de instrucciones más amplio y complejo, lo que permite realizar tareas más complejas con menos código. Sin embargo, las CPU CISC suelen ser más grandes, más costosas y menos eficientes energéticamente que las CPU RISC.
+La arquitectura de hardware en la práctica:
+
+La arquitectura de hardware juega un papel fundamental en el rendimiento, la funcionalidad y la confiabilidad de una computadora. Al comprender los principios básicos de la arquitectura de hardware, puedes tomar decisiones informadas sobre la elección de la computadora adecuada para tus necesidades y comprender mejor cómo funcionan los sistemas computacionales.
