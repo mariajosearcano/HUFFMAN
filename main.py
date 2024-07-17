@@ -12,7 +12,7 @@ print()
 print("🔑 Bienvenido al Compresor con el Algoritmo de Huffman 🗜️")
 
 selection = ""
-while selection != "4":
+while selection != "0":
     print()
     print("                    🌳       🌳       🌳                 ")
     print()
@@ -20,7 +20,7 @@ while selection != "4":
     print("1. 🔰 Comprimir archivo")
     print("2. 📥 Descomprimir archivo")
     print("3. ❓ Acerca de")
-    print("4. 🚪 Salir")
+    print("0. 🚪 Salir")
     selection = input("=> ")
     print()
 
@@ -31,7 +31,7 @@ while selection != "4":
             decompression.decompress()
         case "3":
             about()
-        case "4":
+        case "0":
             print("Hasta la próxima 👋")
             print()
         case _:
